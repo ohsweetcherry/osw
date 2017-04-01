@@ -1,12 +1,12 @@
 body {
     background: cornflowerblue;
-    background: -webkit-radial-gradient(#6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
+    background: -webkit-radial-gradient(circle, #6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
                                         #b1caf6, #c1d4f7); /* For Safari 5.1 to 6.0 */
-    background: -o-radial-gradient(#6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
+    background: -o-radial-gradient(circle, #6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
                                    #b1caf6, #c1d4f7); /* For Opera 11.6 to 12.0 */
-    background: -moz-radial-gradient(#6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
+    background: -moz-radial-gradient(circle, #6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
                                      #b1caf6, #c1d4f7); /* For Fx 3.6 to 15 */
-    background: radial-gradient(#6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
+    background: radial-gradient(circle, #6495ed, #739fee, #83aaf0, #92b4f2, #a2bff4, 
                                 #b1caf6, #c1d4f7); 
     /* Standard syntax (must be last) */
 }
