@@ -11,6 +11,10 @@ body {
     /* Standard syntax (must be last) */
 }
 
+body {
+    height: 100vh;
+}
+
 div {
     position: absolute;
     top: 50%;
